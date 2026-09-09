@@ -1,5 +1,7 @@
 # Active-Directory-Enterprise-HomeLab
-![Alt Text](AD_HomeLab_Portfolio.pdf)
+
+<img src="AD_HomeLab_Portfolio.png" alt="Alt Text" width="500">
+
 • Implemented Active Directory with IT, Finance, and Management OUs
 • Implemented department-based resource access using NTFS permissions
 • Configured DNS and DHCP services
