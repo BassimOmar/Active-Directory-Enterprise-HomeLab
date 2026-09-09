@@ -1,8 +1,8 @@
 # Active-Directory-Enterprise-HomeLab
 
-<img src="AD_Firstpage" alt="Alt Text" width="500">
-<img src="AD_Secondpage" alt="Alt Text" width="500">
-<img src="AD_Thirdpage" alt="Alt Text" width="500">
+<img src="AD_Firstpage.png" alt="Alt Text" width="500">
+<img src="AD_Secondpage.png" alt="Alt Text" width="500">
+<img src="AD_Thirdpage.png" alt="Alt Text" width="500">
 
 • Implemented Active Directory with IT, Finance, and Management OUs
 • Implemented department-based resource access using NTFS permissions
