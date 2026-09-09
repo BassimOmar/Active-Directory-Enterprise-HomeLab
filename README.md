@@ -1,8 +1,9 @@
 # Active-Directory-Enterprise-HomeLab
 
-<img src="AD_Homelab_Portfolio/AD_Firstpage.png" alt="Alt Text" width="500">
-<img src="AD_Homelab_Portfolio/AD_Secondpage.png" alt="Alt Text" width="500">
-<img src="AD_Homelab_Portfolio/AD_Thirdpage.png" alt="Alt Text" width="500">
+<img src="<img width="2550" height="3301" alt="AD_Firstpage" src="https://github.com/user-attachments/assets/d05c8ad3-54a7-4aa2-97e8-bc5aba640059" />
+<img width="2550" height="3301" alt="AD_Secondpage" src="https://github.com/user-attachments/assets/53d5f043-3f8a-411d-9bca-c04c47ee05df" />
+<img width="2550" height="3301" alt="AD_Thirdpage" src="https://github.com/user-attachments/assets/50f68d17-f567-4e3f-9353-1ffb0e5e18b1" />
+
 
 • Implemented Active Directory with IT, Finance, and Management OUs
 • Implemented department-based resource access using NTFS permissions
